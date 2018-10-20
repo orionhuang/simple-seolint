@@ -1,0 +1,23 @@
+{
+  "name": "simple-seolint",
+  "version": "0.1.0",
+  "description": "SEO lint node.js module ",
+  "main": "seolint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orionhuang/simple-seolint"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
+  },
+  "keywords": [
+    "SEO",
+    "Lint"
+  ],
+  "author": "Richard Huang",
+  "license": "MIT"
+}
