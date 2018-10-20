@@ -3,7 +3,7 @@ A simple SEO lint npm module.
 
 ## Installation
 ```
-git clone https://github.com/orionhuang/seolint.git
+git clone https://github.com/orionhuang/simple-seolint.git
 npm install
 ```
 

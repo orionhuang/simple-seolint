@@ -1,6 +1,6 @@
 {
   "name": "simple-seolint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SEO lint node.js module ",
   "main": "seolint.js",
   "scripts": {
