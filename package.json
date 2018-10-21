@@ -4,7 +4,7 @@
   "description": "SEO lint node.js module ",
   "main": "seolint.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/seolint.js"
   },
   "repository": {
     "type": "git",
@@ -12,7 +12,10 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "request": "^2.83.0"
+    "mocha": "^5.2.0",
+    "request": "^2.83.0",
+    "sails": "^1.0.2",
+    "should": "^13.2.3"
   },
   "keywords": [
     "SEO",
